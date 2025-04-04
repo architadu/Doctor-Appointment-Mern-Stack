@@ -108,7 +108,7 @@
   - **Cash Payment**
   - **Stripe Integration**
   - **Razorpay Integration**
-- Ensures a secure and smooth payment experience for users.
+
 
 
 
